@@ -1,5 +1,9 @@
 # MTA:SA Advanced Taxi Faction System
 
+**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+
+**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
+
 A fully-featured taxi job / faction system for Multi Theft Auto: San Andreas (MTA:SA).
 
 This resource provides an immersive passenger–driver flow with an in-game tablet UI, booking list for taxi drivers, automatic fare calculation, checkpoints, and notifications. It is designed to be plug-and-play and easy to customize for roleplay servers.
@@ -17,6 +21,7 @@ This resource provides an immersive passenger–driver flow with an in-game tabl
   - Driver list panel.
   - Location selection screen with map integration.
   - Book / cancel ride buttons with hover animations.
+<img width="1188" height="818" alt="taxi" src="https://github.com/user-attachments/assets/20d024f2-0124-43a0-9625-7248b5b5d7f2" />
 
 - **Driver-side taxi faction panel**
   - Opened via the `F4` key for players in the taxi ACL group.
@@ -26,6 +31,7 @@ This resource provides an immersive passenger–driver flow with an in-game tabl
     - Distance (meters)
     - Fare (calculated automatically)
   - One-click booking acceptance.
+<img width="1222" height="900" alt="png" src="https://github.com/user-attachments/assets/b95fc87f-54a9-4372-b9b9-57ed71782f7e" />
 
 - **Automatic fare system**
   - Fare is calculated based on distance between passenger position and chosen drop location.
@@ -34,6 +40,7 @@ This resource provides an immersive passenger–driver flow with an in-game tabl
 - **Teleport to closest checkpoint (optional helper)**
   - When a driver accepts a booking, the script finds the closest configured checkpoint to the passenger.
   - If the driver is far enough, their vehicle is teleported there (anti-abuse distance configurable).
+<img width="1051" height="925" alt="pic" src="https://github.com/user-attachments/assets/5f0695b2-6733-468d-8000-27dc62766365" />
 
 - **Pickup and drop checkpoints**
   - Custom markers and blips only visible to the relevant driver.
