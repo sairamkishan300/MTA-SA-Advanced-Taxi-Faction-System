@@ -1,6 +1,6 @@
 # MTA:SA Advanced Taxi Faction System
 
-**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+**Join our Discord FOR MORE SCRIPTS SERVICES** - https://discord.gg/C6yGdAEWEa 
 
 **DOWNLOAD FOR FREE From Gumroad** - https://saimusick.gumroad.com/l/ebtvz
 
